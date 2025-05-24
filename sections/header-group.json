@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping on Order above 2000",
+            "text": "Free Shipping over 1999",
             "url": ""
           }
         }
