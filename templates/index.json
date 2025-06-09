@@ -155,7 +155,7 @@
         "background": "",
         "background_gradient": "linear-gradient(297deg, rgba(251, 183, 206, 1) 16%, rgba(185, 232, 226, 1) 52%, rgba(246, 221, 167, 1) 87%)",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#47201c",
         "heading_gradient": ""
       }
     },
