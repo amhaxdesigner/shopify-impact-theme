@@ -154,8 +154,8 @@
       "settings": {
         "full_width": true,
         "text": "More items coming soon",
-        "text_size": "large",
-        "text_style": "fill",
+        "text_size": "small",
+        "text_style": "outline",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
         "background": "",
